@@ -6,6 +6,6 @@ Doing spatial data science on EC2 is likely appealing to many professionals, but
 
 * How to set up an Ubuntu Linux environment on EC2 if you've never used Linux before; 
 * How to install core geospatial libraries on Ubuntu; 
-* How to install R and RStudio on EC2; 
+* How to install R and RStudio Server on EC2; 
 * Using RStudio as an interface to your operating system; 
 * Setting up and using a JupyterLab server on EC2 with core spatial data science libraries (e.g. geopandas & pysal)
