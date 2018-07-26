@@ -1,4 +1,4 @@
-## Introduction: Spatial data science in the cloud
+# Introduction: Spatial data science in the cloud
 
 If you are reading this, you are likely interested in cloud computing-based approaches to data science, with a focus on spatial data.  There are a number of distinct advantages to doing spatial data science in the cloud rather than on a local machine.  These include: 
 
@@ -16,4 +16,3 @@ I should note that these tutorials are for the practitioners who desire finer co
 * CoCalc (with cloud Jupyter Notebooks and lots more): https://cocalc.com/
 
 The first tutorial will cover getting started with Amazon's EC2.  Stay tuned!
-

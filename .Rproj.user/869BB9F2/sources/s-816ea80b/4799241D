@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532641048033.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4799241D",
+    "lastKnownWriteTime" : 1532640535,
+    "last_content_update" : 1532640535,
+    "path" : "~/cloud-spatial-data-science/02-Getting-Started-With-Amazon-EC2.Rmd",
+    "project_path" : "02-Getting-Started-With-Amazon-EC2.Rmd",
+    "properties" : {
+        "cursorPosition" : "2,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
