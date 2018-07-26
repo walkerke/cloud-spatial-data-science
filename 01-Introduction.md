@@ -1,0 +1,19 @@
+## Introduction: Spatial data science in the cloud
+
+If you are reading this, you are likely interested in cloud computing-based approaches to data science, with a focus on spatial data.  There are a number of distinct advantages to doing spatial data science in the cloud rather than on a local machine.  These include: 
+
+* __Expense__.  A high-powered computer for spatial data science can set you back thousands of dollars.  In contrast, cloud services only require that you pay for what you use (e.g. Amazon EC2) or may only bill for a low monthly fee.  This means that connecting to an cloud instance through a low-cost computer (e.g. a Chromebook, which is what I use) might be more cost-effective for doing spatial data science than purchasing a powerful machine.  
+* __Portability__.  A cloud setup for data science allows you to access your computing environment from any device connected to the Internet.  This might be a Chromebook, iPad, another work computer, or some other device.  
+* __Scalability__.  Spatial data science jobs involving real "big datasets" might require more RAM than is available on a data scientist's workstation or laptop.  Cloud computing can enable you to "scale up" your remote machine for large jobs, then scale back down to save money when that amount of RAM is unnecessary.  
+
+Despite these advantages, cloud computing has its costs - particularly in regards to the time a spatial data scientist needs to expend to set up the computing environment.  Cloud environments generally run on some variant of a Linux operating system, which may be unfamiliar to individuals coming from other OS backgrounds such as Windows.  This may be amplified for spatial data scientists transitioning from a traditional GIS background focused on Esri ArcGIS, which still only runs on Windows operating systems.  
+
+In this series of documents, I'll be sharing what I've learned setting up Ubuntu Linux for spatial data science on Amazon's Elastic Compute Cloud (EC2).  By the end of the tutorials, you'll have fully-functional R and Python environments equipped with RStudio Server and JupyterLab and all of the core spatial data science libraries installed.  
+
+I should note that these tutorials are for the practitioners who desire finer control over their computing environments and who are OK with incurring some start-up costs with regard to time investment.  To get up and running quickly with spatial data science in the cloud, I recommend the following services: 
+
+* RStudio Cloud: https://rstudio.cloud/
+* CoCalc (with cloud Jupyter Notebooks and lots more): https://cocalc.com/
+
+The first tutorial will cover getting started with Amazon's EC2.  Stay tuned!
+
