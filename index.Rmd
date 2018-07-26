@@ -1,0 +1,15 @@
+--- 
+title: "Spatial Data Science in the Cloud with Ubuntu and Amazon EC2"
+author: "Kyle Walker"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "This book covers how to set up a spatial data science environment on Amazon EC2 running R and Python in the cloud."
+---
+
+# Overview
+
+Coming soon...
