@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "262166637",
     "id" : "10E6E1F5",
-    "lastKnownWriteTime" : 1532641076,
-    "last_content_update" : 1532641076396,
+    "lastKnownWriteTime" : 1532659849,
+    "last_content_update" : 1532659849341,
     "path" : "~/cloud-spatial-data-science/01-Introduction.Rmd",
     "project_path" : "01-Introduction.Rmd",
     "properties" : {
-        "cursorPosition" : "6,145",
+        "cursorPosition" : "2,0",
         "scrollLine" : "0"
     },
     "read_only" : false,

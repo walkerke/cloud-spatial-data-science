@@ -143,3 +143,33 @@ To https://github.com/walkerke/cloud-spatial-data-science.git
    4719b01..6461668  master -> master
 Branch master set up to track remote branch master from origin.
 ]0;/home/kylewalker/cloud-spatial-data-science]0;kylewalker@SCH2015L1: ~/cloud-spatial-data-science[01;32mkylewalker@SCH2015L1[00m:[01;34m~/cloud-spatial-data-science[00m$ git add .
+]0;/home/kylewalker/cloud-spatial-data-science]0;kylewalker@SCH2015L1: ~/cloud-spatial-data-science[01;32mkylewalker@SCH2015L1[00m:[01;34m~/cloud-spatial-data-science[00m$ git commit -m "clean up new bookdown repo"
+[master 6f9ec46] clean up new bookdown repo
+ 15 files changed, 291 insertions(+), 26 deletions(-)
+ create mode 100644 .Rproj.user/869BB9F2/console06/C7D7664.env
+ rewrite .Rproj.user/869BB9F2/console06/INDEX001 (72%)
+ create mode 100644 .Rproj.user/869BB9F2/sources/prop/3F11D94
+ create mode 100644 .Rproj.user/869BB9F2/sources/prop/D7E17E9
+ create mode 100644 .Rproj.user/869BB9F2/sources/s-816ea80b/10E6E1F5
+ rename 01-Introduction.md => .Rproj.user/869BB9F2/sources/s-816ea80b/10E6E1F5-contents (98%)
+ create mode 100644 .Rproj.user/869BB9F2/sources/s-816ea80b/4799241D
+ create mode 100644 .Rproj.user/869BB9F2/sources/s-816ea80b/4799241D-contents
+ create mode 100644 .Rproj.user/shared/notebooks/3CEE0C43-01-Introduction/1/869BB9F2816ea80b/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/3CEE0C43-01-Introduction/1/s/chunks.json
+ rewrite 01-Introduction.Rmd (99%)
+ delete mode 100644 02-Getting-Started-With-Amazon-EC2.md
+]0;/home/kylewalker/cloud-spatial-data-science]0;kylewalker@SCH2015L1: ~/cloud-spatial-data-science[01;32mkylewalker@SCH2015L1[00m:[01;34m~/cloud-spatial-data-science[00m$ git push -u origin master
+error: cannot run rpostback-askpass: No such file or directory
+Username for 'https://github.com': walkerke
+error: cannot run rpostback-askpass: No such file or directory
+Password for 'https://walkerke@github.com': 
+Counting objects: 24, done.
+Delta compression using up to 4 threads.
+Compressing objects:   4% (1/21)   Compressing objects:   9% (2/21)   Compressing objects:  14% (3/21)   Compressing objects:  19% (4/21)   Compressing objects:  23% (5/21)   Compressing objects:  28% (6/21)   Compressing objects:  33% (7/21)   Compressing objects:  38% (8/21)   Compressing objects:  42% (9/21)   Compressing objects:  47% (10/21)   Compressing objects:  52% (11/21)   Compressing objects:  57% (12/21)   Compressing objects:  61% (13/21)   Compressing objects:  66% (14/21)   Compressing objects:  71% (15/21)   Compressing objects:  76% (16/21)   Compressing objects:  80% (17/21)   Compressing objects:  85% (18/21)   Compressing objects:  90% (19/21)   Compressing objects:  95% (20/21)   Compressing objects: 100% (21/21)   Compressing objects: 100% (21/21), done.
+Writing objects:   4% (1/24)   Writing objects:   8% (2/24)   Writing objects:  12% (3/24)   Writing objects:  16% (4/24)   Writing objects:  20% (5/24)   Writing objects:  25% (6/24)   Writing objects:  29% (7/24)   Writing objects:  33% (8/24)   Writing objects:  37% (9/24)   Writing objects:  41% (10/24)   Writing objects:  45% (11/24)   Writing objects:  50% (12/24)   Writing objects:  54% (13/24)   Writing objects:  58% (14/24)   Writing objects:  66% (16/24)   Writing objects:  70% (17/24)   Writing objects:  75% (18/24)   Writing objects:  79% (19/24)   Writing objects:  83% (20/24)   Writing objects:  87% (21/24)   Writing objects:  91% (22/24)   Writing objects:  95% (23/24)   Writing objects: 100% (24/24)   Writing objects: 100% (24/24), 8.41 KiB | 0 bytes/s, done.
+Total 24 (delta 6), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/6)   [Kremote: Resolving deltas:  16% (1/6)   [Kremote: Resolving deltas:  33% (2/6)   [Kremote: Resolving deltas:  50% (3/6)   [Kremote: Resolving deltas:  66% (4/6)   [Kremote: Resolving deltas:  83% (5/6)   [Kremote: Resolving deltas: 100% (6/6)   [Kremote: Resolving deltas: 100% (6/6), completed with 5 local objects.[K
+To https://github.com/walkerke/cloud-spatial-data-science.git
+   6461668..6f9ec46  master -> master
+Branch master set up to track remote branch master from origin.
+git add .
