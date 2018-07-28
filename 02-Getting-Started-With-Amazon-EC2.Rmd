@@ -1,3 +1,8 @@
-# Literature
+# Getting Started with Amazon EC2
 
-Here is a review of existing methods.
+This chapter will provide an overview of how to get started setting up an EC2 instance from scratch.  It will explain a number of key topics that may be difficult to understand for newcomers.  This includes: 
+
+* The definition of an "instance"
+* Understanding Amazon Machine Images (AMIs) and picking an operating system
+* Understanding instance types and characteristics (CPUs, memory, EBS)
+* Working with security groups and public/private keys.  This includes how/if to open "ports" and what that means.  

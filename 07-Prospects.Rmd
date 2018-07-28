@@ -1,0 +1,3 @@
+# Prospects for Spatial Data Science and Cloud Computing
+
+This chapter, which will conclude the book, will reflect on the significance of cloud computing and spatial data science for the geospatial analyst.  It will compare and contrast the traditional tasks of the GIS Analyst (who may be using ArcGIS or QGIS) and what similarities and differences exist between the GIS Analyst and the Spatial Data Scientist.  I anticipate making a case to GIS Analysts to embrace spatial data science to be competitive in an evolving industry landscape.  

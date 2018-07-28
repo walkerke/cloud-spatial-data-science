@@ -1,7 +1,5 @@
-# Applications
+# Working with R and RStudio Server in the Cloud
 
-Some _significant_ applications are demonstrated in this chapter.
+This chapter will cover the process of installing R and RStudio Server on your EC2 instance.  It will also go over the ins and outs of using RStudio in the cloud (as opposed to on a desktop computer); how to work with the Terminal in RStudio; and the basics of using Git and GitHub.  
 
-## Example one
-
-## Example two
+It will also cover the "must-have" geospatial libraries in R and how to get them going on your instance.  

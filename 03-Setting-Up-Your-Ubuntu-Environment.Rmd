@@ -1,3 +1,10 @@
-# Methods
+# Setting Up Your Ubuntu Environment
 
-We describe our methods in this chapter.
+This chapter covers the process of getting started with your Ubuntu environment.  Topics will include: 
+
+* What is "SSH" and how do you use it to log into your instance as a root user?  
+* How to work with public/private keys - and how to generate keypairs for use on a Chromebook
+* Linux command line basics
+* How to install software from the Linux command line - and understanding the meaning of "sudo"
+* How to use the Ubuntu PPA and install core geospatial libraries
+* How to manage users and grant sudo access

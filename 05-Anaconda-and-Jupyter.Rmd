@@ -1,3 +1,5 @@
-# Final Words
+# Setting up Anaconda and a Jupyter Server in the Cloud
 
-We have finished a nice book.
+This chapter will cover the process of getting a Python environment for spatial data science up and running on your instance.  It will address the installation of Anaconda, and give step-by-step instructions on how to set up a Jupyter server running JupyterLab and Jupyter Notebooks.  
+
+The chapter will then cover some core geospatial libraries for data science in Python, and how to get them installed on your instance.  

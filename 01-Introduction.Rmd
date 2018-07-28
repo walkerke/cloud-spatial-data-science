@@ -1,3 +1,25 @@
 # Introduction: Spatial data science in the cloud
 
 
+
+## What is spatial data science?  
+
+* Define the sub-field of spatial data science with respect to data science
+* Distinguish between spatial data science and geographic information science
+* Discuss why spatial data science is significant for the desktop GIS-centric practitioner's career
+
+
+## Why spatial data science in the cloud?  
+
+* Discuss cloud-based data science (generally speaking)
+* Go into some of the advantages of working in the cloud
+
+## Options for cloud spatial data science
+
+Discuss: 
+
+* Cloud providers (AWS, Google Cloud, MS Azure, etc.)
+* Operating systems (focusing on Linux servers)
+* Software for data science (R, Python)
+
+
